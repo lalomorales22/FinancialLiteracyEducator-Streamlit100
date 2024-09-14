@@ -15,7 +15,7 @@ Financial Literacy Educator is a Streamlit-based web application that provides i
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/financial-literacy-educator.git
+   git clone https://github.com/lalomorales22/FinancialLiteracyEducator-Streamlit100.git
    cd financial-literacy-educator
    ```
 
